@@ -1,0 +1,12 @@
+.content {
+    display: flex;
+}
+.main {
+    order: 2;
+}
+.sidebar1 {
+    order: 1;
+}
+.sidebar2 {
+    order: 3;
+}
